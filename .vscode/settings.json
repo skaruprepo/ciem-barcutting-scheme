@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Saris.Krainara\\Desktop\\Temporary\\Lib\\site-stubs\\rhino3d-8.9.24194.18121",
+        "C:\\Users\\Saris.Krainara\\AppData\\Roaming\\McNeel\\Rhinoceros\\8.0\\Plug-ins\\IronPython (814d908a-e25c-493d-97e9-ee3861957f49)\\settings\\lib",
+        "./libs"
+    ]
+}

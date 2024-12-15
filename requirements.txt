@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+openpyxl
+PySide2
+ortools
+xlwings
